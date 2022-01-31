@@ -1,0 +1,53 @@
+OBJECTID *,Name,y,x,Area,NameArea,Deployment date,status
+2,TUW02,43.67111,-79.512609,Park,James Garden,9/29/2020 19:18,ended
+3,TUW03,43.664646,-79.515851,Natural,Lambton woods,9/29/2020 20:27,ended
+6,TUW06,43.642542,-79.491473,Park,Humber Boat put-in,9/29/2020 23:57,ended
+7,TUW07,43.653323,-79.460046,Natural,High Park East,9/30/2020 0:59,ended
+8,TUW08,43.650845,-79.467364,Park,High Park West,10/3/2020 20:01,ended
+10,TUW09b,43.64338,-79.454617,Residential,Roncesvalles,10/3/2020 21:47,ended
+16,TUW15,43.666715,-79.395121,Natural,Philosopher's walk,10/2/2020 1:15,ended
+17,TUW16,43.653453,-79.353426,Residential,Corktown,10/2/2020 18:44,ended
+18,TUW17,43.653105,-79.351775,Natural,Corktown commons; Don river trail,10/2/2020 18:21,ended
+19,TUW18,43.654098,-79.353462,Park,Corktown commons,10/2/2020 17:53,ended
+21,TUW20,43.663593,-79.311403,Park,Woodbine park,9/30/2020 17:40,ended
+30,TUW29,43.731143,-79.213732,Residential,Scarborough Village,9/30/2020 23:13,ended
+35,TUW33,43.716274,-79.377493,Residential,Summerhill,10/1/2020 19:51,ended
+36,TUW33b,43.716274,-79.377493,Residential,Park entrance,10/1/2020 19:51,ended
+39,TUW35,43.717697,-79.380837,Natural,Sherwood Park,10/1/2020 19:22,ended
+41,TUW36,43.732146,-79.362986,Residential,Bridle path,10/1/2020 20:20,ended
+43,TUW37,43.730658,-79.357427,Natural,Wilket Creek Park,10/1/2020 21:01,ended
+45,TUW38,43.733139,-79.360124,Park,Edward's gardens,10/1/2020 21:19,ended
+48,TUW40,43.667315,-79.296853,Park,Kew Gardens,<Null>,ended
+49,TUW41,43.670384,-79.283989,Natural,Balmy Beach,<Null>,ended
+51,CPC_1,43.653406,-79.619915,Natural,North Etobicoke,<Null>,ended
+52,CPC_2,43.7444,-79.564698,Natural,North Humber,<Null>,ended
+54,CPC_4,43.725666,-79.367032,Natural,Warden woods (formally Sunnybrooke),<Null>,ended
+56,CPC_6,43.706715,-79.280872,Natural,Warden Woods (uninstalled),<Null>,ended
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
